@@ -1,4 +1,0 @@
-RayTracer
-=========
-
-HOHOHO
